@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Thanh</h1>
 <h3 align="center">I like reading, cooking and of course coding!!</h3>
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia1.giphy.com%2Fmedia%2FLl22OhMLAlVDb8UQWe%2Fsource.gif&f=1&nofb=1&ipt=6192179c9bc594a9795c62e88470c4d02f52865648878853d02ed7379f2891f5&ipo=images" width="400" align="center" alt="coding gif" />
+<div align="center"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia1.giphy.com%2Fmedia%2FLl22OhMLAlVDb8UQWe%2Fsource.gif&f=1&nofb=1&ipt=6192179c9bc594a9795c62e88470c4d02f52865648878853d02ed7379f2891f5&ipo=images" width="400"  alt="coding gif" /></div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tranthanhvi&label=Profile%20views&color=0e75b6&style=flat" alt="tranthanhvi" /> </p>
 
